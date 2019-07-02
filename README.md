@@ -34,17 +34,16 @@ We had dozens of ideas that we did not have room for in this challenge and that 
 
 A few ideas we didn't do (yet) but would love to see someone run with:
 
-- Battleship
-- Mr Potatohead
-- Game of Telephone
-- Scavenger Hunt
-- Interactive fiction
-- Glitch
-- Encrypted Hexbot
-- Infer object's mass
-- More Conway's Game of life.
-- Ridiculous prompt generator
-- Mash up any two public repos or datasets
-- Ridiculous programming constraints
+- **Battleship:** Classic board game would be interesting to implement as an API to play against a robot or another human.
+- **Scavenger Hunt:** Clues are hidden across repositories, source code, or responses, and only the curious can find the answer.
+- **Game of Telephone:** The last message is relayed from one player to another, and the result is published to everyone.
+- **Mr. Potatohead:** The API returns only fragments of the final product, and the UI displays the pieces cobbled together.
+- **Interactive fiction:** Write a game that happens entirely through text.
+- **Glitch:** Create filters that glitch video, audio, or data.
+- **Infer an object's mass:** POST a force vector, and the API returns how much it moved. Can you figure out the object's center of gravity and mass—and the friction of the surface?
+- **Mash up any two public repos or datasets:** Gather a list of public datasets and the tools for anyone to mash them together.
+- **Ridiculous programming constraints:** Code Golf is fun but it's so...pedestrian. What if you had to write a program where no function could take an argument? Or where you couldn't use any...strings.
+
+What else can you think of? [Let us know](https://github.com/noops-challenge/ideabot/issues).
 
 More about Ideabot on the challenge page at [noopschallenge.com](https://noopschallenge.com/challenges/ideabot).
